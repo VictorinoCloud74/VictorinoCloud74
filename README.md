@@ -25,6 +25,6 @@ Apasionado por la infraestructura en la nube y la automatización. Actualmente e
 
 ---
 📫 **¿Cómo contactarme?**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vgmo1974/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgmo1974/)
 
 ---

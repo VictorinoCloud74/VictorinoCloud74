@@ -1,13 +1,6 @@
 # ¡Hola! Soy [Victor Matallana Ortega] 👋
 
-## ☁️ Cloud Architect in Training | AWS & DevOps
-Apasionado por la infraestructura en la nube y la automatización. Actualmente en un entrenamiento intensivo de 4 semanas para obtener la certificación **AWS Solutions Architect Associate**, construyendo arquitecturas reales y seguras bajo las mejores prácticas de Well-Architected Framework.
-
-### 🚀 Mi Stack Tecnológico
-<div align="left">
-# ¡Hola! Soy [Victor Matallana Ortega] 👋
-
-## ☁️ Cloud Architect in Training | AWS & DevOps
+### ☁️ Cloud Architect in Training | AWS & DevOps
 Apasionado por la infraestructura en la nube y la automatización. Actualmente en un entrenamiento intensivo de 4 semanas para obtener la certificación **AWS Solutions Architect Associate**, construyendo arquitecturas reales y seguras bajo las mejores prácticas de Well-Architected Framework.
 
 ### 🚀 Mi Stack Tecnológico

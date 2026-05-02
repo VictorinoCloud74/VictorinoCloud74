@@ -14,7 +14,7 @@ Apasionado por la infraestructura en la nube y la automatización. Actualmente e
 </div>
 
 ### 🛠️ Proyectos Destacados
-* 🌐 **[AWS CloudOps Portfolio](ENLACE_A_TU_REPOSITORIO_DE_AWS):** Mi bitácora de arquitectura, desde VPCs básicas hasta despliegues automáticos con Terraform.
+* 🌐 **[AWS CloudOps Portfolio](https://github.com/VictorinoCloud74/aws-architect-portfolio):** Mi bitácora de arquitectura, desde VPCs básicas hasta despliegues automáticos con Terraform.
 
 ---
 📫 **¿Cómo contactarme?**

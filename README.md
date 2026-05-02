@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Victor Matallana Ortega] 👋
 
 ## ☁️ Cloud Architect in Training | AWS & DevOps
 Apasionado por la infraestructura en la nube y la automatización. Actualmente en un entrenamiento intensivo de 4 semanas para obtener la certificación **AWS Solutions Architect Associate**, construyendo arquitecturas reales y seguras bajo las mejores prácticas de Well-Architected Framework.
@@ -25,6 +25,6 @@ Apasionado por la infraestructura en la nube y la automatización. Actualmente e
 
 ---
 📫 **¿Cómo contactarme?**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_URL_DE_LINKEDIN](https://www.linkedin.com/in/vgmo1974/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vgmo1974/])
 
 ---
